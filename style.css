@@ -336,8 +336,8 @@ b,strong{
         overflow: hidden;
     }
     .navbar-expand-lg .navbar-nav .nav-link{
-        margin-left: 2px;
-        margin-right: 7px;
+        margin-left: 0px;
+        margin-right: 5px;
         font-size:small;
     }
 }
