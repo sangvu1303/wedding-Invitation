@@ -333,9 +333,12 @@ b,strong{
     .navbar-nav{
         display: flex;
         flex-direction: row;
+        overflow: hidden;
     }
     .navbar-expand-lg .navbar-nav .nav-link{
         margin-left: 5px;
+        margin-right: 10px;
+        font-size:small;
     }
 }
 
