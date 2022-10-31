@@ -329,6 +329,16 @@ b,strong{
     top: 8px;
 }
 
+@media screen and (max-width: 600px){
+    .navbar-nav{
+        display: flex;
+        flex-direction: row;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link{
+        margin-left: 5px;
+    }
+}
+
 .hero-container{
     background-color: #d9d8d6;
     background-image: url('images/p1.jpg');
