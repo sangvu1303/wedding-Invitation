@@ -344,7 +344,7 @@ b,strong{
         height: calc(90vh - 60px);
     }
     .hero-container h2,h1 {
-        font-size: var(--h5-font-size);
+        font-size: var(--h4-font-size);
     }
 }
 
