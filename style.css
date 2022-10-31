@@ -340,6 +340,12 @@ b,strong{
         margin-right: 5px;
         font-size:small;
     }
+    .hero-container{
+        height: calc(90vh - 60px);
+    }
+    .hero-container h2,h1 {
+        font-size: var(--h5-font-size);
+    }
 }
 
 .hero-container{
